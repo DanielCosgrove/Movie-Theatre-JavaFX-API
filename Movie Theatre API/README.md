@@ -1,3 +1,3 @@
-# Movie-Theatre-Program
+# Movie-Theatre-API
 
-The DD (Database Design) file is the java project file for this program. The SQL script for creating the database schema is also included.
+The Movie Theatre folder is the Java project folder for this program. The SQL script for creating the database schema is also included.
